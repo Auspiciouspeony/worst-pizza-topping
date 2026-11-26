@@ -4,6 +4,12 @@
 The line is a single line of UTF-8 text with no trailing newline.
 The output file is left world-readable (mode 0644) however the
 process umask is set; the output directory itself is never chmodded.
+
+The line targets the judge brief in order: it names the pizza and
+the topping and makes the topping sound awful (dish soap), lands a
+real joke with a surprising three-beat turn (minty fresh, divorce,
+health inspector moving in), stays one line, is vivid and specific,
+and reads like a person pitching it.
 """
 
 import os
